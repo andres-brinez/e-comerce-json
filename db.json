@@ -4,7 +4,7 @@
           "nombre": "Taza soldado de asalto",
           "precio": "$ 66,00",
           "imagen": "./static/img/section-products/start-wars/uno.svg",
-          "id": 1.1
+          "id": 555
       },
       {
           "nombre": "Soldados de la muerte",
